@@ -72,9 +72,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Ask for a Quote
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Usually get a response within 24 hours
     actions:
       - label: Let's Talk
         url: /features
