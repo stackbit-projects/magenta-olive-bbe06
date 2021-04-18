@@ -76,7 +76,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     actions:
-      - label: Contact Us
+      - label: Ask Fo
         url: /features
         style: primary
     has_background: true
