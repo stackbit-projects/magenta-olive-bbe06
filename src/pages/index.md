@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Services
     features:
       - title: Web Design & Development
         content: >-
