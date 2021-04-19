@@ -53,7 +53,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Website Management
+      - title: Website Maintenance
         content: >
           After building your site, we won't leave you hanging. We offer
           services on a monthly retainer to maintain your site with software
