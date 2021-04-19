@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Full Web solutions to get you the quality and quantity of traffic you
       need.
-    align: center
+    align: left
     image: images/knowledgeable-owl.png
   - type: features_section
     features:
