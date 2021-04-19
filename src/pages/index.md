@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Modern Web Solutions for modern businesses
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      In the online world of business, competition is tough. That's why it's
+      important to be ahead of the game.
     actions:
       - label: Learn More
         url: /features
