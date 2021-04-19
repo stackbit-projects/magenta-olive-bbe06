@@ -40,10 +40,10 @@ sections:
             url: /features
             style: secondary
       - title: Digital marketing
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Having an online presence is more important than ever for businesses.
+          Using the right online marketing techniques to ensure your website is
+          getting the traffic it needs to.
         align: left
         image: images/noun_SEO_526670 (1).png
         image_alt: Feature 2 placeholder image
