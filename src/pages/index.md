@@ -82,7 +82,7 @@ sections:
     background_color: gray
   - title: Portfolio
     content: >
-      ## Lorem ipsum
+      > "Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
