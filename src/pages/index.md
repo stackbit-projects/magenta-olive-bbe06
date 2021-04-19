@@ -42,8 +42,8 @@ sections:
       - title: Digital marketing
         content: >
           Having an online presence is more important than ever for businesses.
-          Using the right online marketing techniques to ensure your website is
-          getting the traffic it needs to.
+          Utilizing the right online marketing strategies to ensure your website
+          is targeting the right target. 
         align: left
         image: images/noun_SEO_526670 (1).png
         image_alt: Feature 2 placeholder image
