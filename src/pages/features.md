@@ -6,8 +6,9 @@ sections:
     subtitle: >-
       Full Web solutions to get you the quality and quantity of traffic you
       need.
-    align: left
+    align: right
     image: images/knowledgeable-owl.png
+    has_background: true
   - type: features_section
     features:
       - title: Web Design & Development
