@@ -28,10 +28,9 @@ sections:
     title: Services
     features:
       - title: Web Design & Development
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Using the latest technology to build beautiful websites, ensuring
+          performance is of highest priority. 
         align: left
         image: images/royal-chestnut.png
         image_alt: Feature 1 placeholder image
