@@ -13,10 +13,6 @@ sections:
             url: /about
             style: primary
       - title: 'Website #2'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
         align: left
         image: images/noun_SEO_526670 (1).png
         image_alt: Feature 2 placeholder image
@@ -26,10 +22,6 @@ sections:
             url: /style-guide
             style: primary
       - title: 'Website #3'
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
         align: left
         image: images/noun_maintenance_3142707.png
         image_alt: Feature 3 placeholder image
