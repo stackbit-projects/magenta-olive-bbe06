@@ -53,10 +53,10 @@ sections:
             url: /features
             style: secondary
       - title: Website Management
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          After building your site, we won't leave you hanging. We offer
+          services on a monthly retainer to maintain your site with software
+          updates, fixing bugs, hosting,
         align: left
         image: images/noun_maintenance_3142707.png
         image_alt: Feature 3 placeholder image
