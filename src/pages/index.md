@@ -52,7 +52,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-            style: primary
+            style: secondary
       - title: Website Management
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
