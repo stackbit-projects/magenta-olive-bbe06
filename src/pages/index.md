@@ -43,7 +43,8 @@ sections:
         content: >
           Having an online presence is more important than ever for businesses
           nowadays. Utilizing the right online marketing strategies to increase
-          traffic and ensure your website is targeting the right audience.
+          traffic to your site and ensure your website is targeting the right
+          audience.
         align: left
         image: images/noun_SEO_526670 (1).png
         image_alt: Feature 2 placeholder image
