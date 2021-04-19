@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/pexels-kevin-ku-577585 (2).jpg
+      background_image: images/pexels-kevin-ku-577585 (3).jpg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
