@@ -29,8 +29,8 @@ sections:
     features:
       - title: Web Design & Development
         content: >
-          Using the latest technology to build beautiful websites, ensuring
-          performance is of highest priority. 
+          Using the latest technology to build fast, beautiful websites,
+          ensuring performance is of highest priority.
         align: left
         image: images/royal-chestnut.png
         image_alt: Feature 1 placeholder image
