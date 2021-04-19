@@ -33,7 +33,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         align: left
-        image: images/noun_website_2053817.png
+        image: images/noun_website_2053817 (1).png
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
