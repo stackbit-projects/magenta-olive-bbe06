@@ -20,7 +20,7 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/hero.svg
+      background_image: images/dianne-ameter.jpg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
