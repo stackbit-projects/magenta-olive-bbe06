@@ -57,7 +57,7 @@ sections:
         content: >
           After building your site, we won't leave you hanging. We offer
           services on a monthly retainer to maintain your site with software
-          updates, fixing bugs, hosting,
+          updates, fixing bugs, hosting, and keep your website up and running. 
         align: left
         image: images/noun_maintenance_3142707.png
         image_alt: Feature 3 placeholder image
