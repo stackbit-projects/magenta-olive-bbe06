@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Services
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Full Web solutions to get you the quality and quantity of traffic you
+      need.
     align: center
   - type: features_section
     features:
