@@ -7,7 +7,7 @@ sections:
       Full Web solutions to get you the quality and quantity of traffic you
       need.
     align: right
-    image: images/knowledgeable-owl.png
+    image: images/feature.svg
     has_background: false
     image_position: left
   - type: features_section
