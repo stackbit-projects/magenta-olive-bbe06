@@ -4,10 +4,6 @@ sections:
   - type: features_section
     features:
       - title: Tiyana's Grace Foundation
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         align: left
         image: images/knowledgeable-owl.png
         image_alt: Feature 1 placeholder image
