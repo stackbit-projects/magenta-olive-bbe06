@@ -4,9 +4,10 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
+                "label": "Services",
                 "url": "/features",
-                "style": "link"
+                "style": "link",
+                "new_window": true
             },
             {
                 "label": "Blog",
