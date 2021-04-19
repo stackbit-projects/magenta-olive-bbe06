@@ -9,6 +9,7 @@ sections:
     align: right
     image: images/knowledgeable-owl.png
     has_background: false
+    image_position: right
   - type: features_section
     features:
       - title: Web Design & Development
