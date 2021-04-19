@@ -1,15 +1,6 @@
 ---
 title: Features
 sections:
-  - type: hero_section
-    title: Services
-    subtitle: >-
-      Full Web solutions to get you the quality and quantity of traffic you
-      need.
-    align: right
-    image: images/good-sycamore.svg
-    has_background: false
-    image_position: left
   - type: features_section
     features:
       - title: Web Design & Development
