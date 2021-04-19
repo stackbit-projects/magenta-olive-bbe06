@@ -7,7 +7,7 @@ sections:
       Full Web solutions to get you the quality and quantity of traffic you
       need.
     align: right
-    image: images/feature.svg
+    image: images/good-sycamore.svg
     has_background: false
     image_position: left
   - type: features_section
