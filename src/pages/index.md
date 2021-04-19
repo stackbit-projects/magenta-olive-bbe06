@@ -81,7 +81,7 @@ sections:
     has_background: true
     background_color: gray
   - title: Portfolio
-    content: >-
+    content: >
       ## Lorem ipsum
 
 
@@ -89,9 +89,10 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+
+      > dolor sit amet
     type: content_section
 seo:
   title: Stackbit Starter Theme
