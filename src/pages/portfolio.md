@@ -5,7 +5,7 @@ sections:
     features:
       - title: Tiyana's Grace Foundation
         align: left
-        image: images/good-sycamore.svg
+        image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
