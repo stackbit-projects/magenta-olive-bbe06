@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Coffee Bean Marketing
+    title: Giving coffee shops an online presence
     subtitle: The Goal is to help coffee shops generate traffic.
     actions:
       - label: Learn More
