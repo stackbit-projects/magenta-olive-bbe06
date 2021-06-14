@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Coffee Bean Marketing
-    subtitle: >-
-      In the online world of business, competition is tough. That's why it's
-      important to be ahead of the game.
+    subtitle: The Goal is to help coffee shops generate traffic.
     actions:
       - label: Learn More
         url: /features
