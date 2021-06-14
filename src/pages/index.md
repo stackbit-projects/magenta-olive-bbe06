@@ -19,7 +19,7 @@ sections:
       background_color: gray
       background_image: images/pexels-negative-space-34085.jpg
       background_image_opacity: 20
-      background_image_size: auto
+      background_image_size: cover
       background_image_repeat: no-repeat
   - type: features_section
     title: Services
