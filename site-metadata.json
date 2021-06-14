@@ -33,7 +33,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "images/noun_Coffee_2207982.png"
+        "logo": "images/noun_Coffee_2207982.png",
+        "logo_alt": "coffee"
     },
     "footer": {
         "has_nav": true,
