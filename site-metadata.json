@@ -32,7 +32,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/noun_Coffee_2207982.png"
     },
     "footer": {
         "has_nav": true,
