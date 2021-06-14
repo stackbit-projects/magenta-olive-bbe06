@@ -35,7 +35,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-            style: secondary
+            style: primary
       - title: Digital marketing
         content: >
           Having an online presence is more important than ever for businesses
